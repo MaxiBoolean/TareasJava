@@ -1,4 +1,4 @@
-# NeorisJava
-Tareas del curso de Java en Neoris.
+# TareasJava
+Tareas del curso de Java.
 
 Maximiliano Cordone
